@@ -1,4 +1,4 @@
-# Java Serialization with Jackson Homework Answer
+# Java Serialization with Jackson Homework
 
 Homework Answer for Java Serialization with Jackson
 
